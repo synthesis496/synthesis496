@@ -1,6 +1,7 @@
 Hello world
 
-Inventor and Architect of this Quantum Logic: Chutiphong Bunloed, Buriran,thailand
+Inventor and Architect of this Quantum Logic: Chutiphong Bunloed
+Buriran,thailand
 
 Orcid : 0009-0003-4295-7521
 
