@@ -1,5 +1,5 @@
 Inventor and Architect of this Quantum Logic: Chutiphong Bunloed
-Buriran,thailand
+Buriram,thailand
 
 Orcid : 0009-0003-4295-7521
 
