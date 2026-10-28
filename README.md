@@ -1,4 +1,4 @@
-Inventor and Architect of this Quantum Logic: Chutiphong Bunloed,
+aInventor and Architect of this Quantum Logic: Chutiphong Bunloed,
 
 Buriram,Thailand.
 
@@ -6,14 +6,9 @@ Orcid : 0009-0003-4295-7521
 e-mail:synthesis496@gmail.com
 tel : +66876666891
 
-###  IP Transfer & Acquisition Terms
-All public samples, underlying mathematical proofs, unreleased core engines, and complete digital account assets are structured for **100% full Intellectual Property buyout**.
-* **Unreleased Assets:** A comprehensive collection of proprietary quantum algorithms, alternative photonic models, and advanced simulation engines beyond the public domain.* 
-* **Deal Structure:** Outright IP Acquisition / Full Ecosystem & Account Ownership Transfer.
-* **Contact for Due Diligence & Bids:**
-* `E-mail: synthesis496@gmail.com ` *(Confidentiality & Non-Disclosure Agreements accommodated upon request)*
 
-0111111 1001001 011111
+* **Contact:**
+* `E-mail: synthesis496@gmail.com ` *
 
 
 Why Does Quantum Measurement Generate Heat?
