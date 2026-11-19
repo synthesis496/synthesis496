@@ -1,15 +1,28 @@
-aInventor and Architect of this Quantum Logic: Chutiphong Bunloed,
+# Chutiphong Bunloed
+**Independent Quantum Computing & Theoretical Physics Researcher**  
+📍 Buriram, Thailand | 📧 synthesis496@gmail.com  
 
-Buriram,Thailand.
+[![ORCID](https://shields.io)](https://orcid.org)
 
-Orcid : 0009-0003-4295-7521
-e-mail:synthesis496@gmail.com
-tel : +66876666891
+---
 
+### 🔬 Research Focus
+Exploring measurement-free passive autonomous quantum error correction (QEC), open quantum systems (Lindblad dynamics), quasi-periodic Fibonacci time modulation, and dissipative limit cycles.
 
-* **Contact:**
-* `E-mail: synthesis496@gmail.com ` *
+---
 
+### 🚀 Featured Repositories
+
+#### 1. [HMQTF — Hyper-Mirror Quantum Theory Field](https://github.com)
+[![DOI](https://zenodo.org)](https://doi.org)
+- **Overview:** Full production framework for measurement-free dissipative qudit error correction based on anti-cascade geometry, parity-1 mirror folding, Fibonacci time modulation, and limit-cycle attractors.
+- **Includes:** Sparse/batch Lindblad solvers, 30-test verification suite, dimensional scaling benchmarks, and demos.
+
+#### 2. [Passive Autonomous QEC (Prototype)](https://github.com)
+[![DOI](https://zenodo.org)](https://doi.org)
+- **Overview:** Experimental prototype exploring 5-dimensional photonic-inspired passive QEC using engineered Lindblad dissipation, dark-state stabilization, and closed-form Binet Fibonacci clocks.
+
+------
 
 Why Does Quantum Measurement Generate Heat?
 
