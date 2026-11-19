@@ -22,3 +22,6 @@ Exploring measurement-free passive autonomous quantum error correction (QEC), op
 [![DOI](https://zenodo.org)](https://doi.org)
 - **Overview:** Experimental prototype exploring 5-dimensional photonic-inspired passive QEC using engineered Lindblad dissipation, dark-state stabilization, and closed-form Binet Fibonacci clocks.
  
+#### 3. **[SHRPPCore](https://github.com)** — PIC framework utilizing Fibonacci time self-similarity.
+
+#### 4.**[HPQF](https://github.com)** — Infinite-domain honeycomb photonic lattice engine.
