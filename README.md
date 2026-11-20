@@ -100,6 +100,20 @@ An experimental passwordless authentication concept built around geometric and t
 
 > This project is a mathematical prototype rather than a production authentication system. It does not currently provide formal zero-knowledge proofs, secure credential storage, replay resistance, or a complete security protocol.
 
+### Physical reservoir computing & non-backpropagation AI
+
+#### 9. FD-PRC — Fibonacci-Dissipative Physical Reservoir Computing
+
+An experimental Python framework exploring physical reservoir computing without backpropagation. It combines golden-ratio quasi-periodic timing, limit-cycle stabilization, dissipative dynamics, and a unified three-mirror operator (symmetry, fold, and flip) to process time-series data.
+
+The repository includes:
+
+- Golden-ratio / Fibonacci-time modulation and quasi-periodic input injection
+- Three-mirror dynamical operators (symmetry, fold, and flip) for bounded state evolution
+- Limit-cycle phase-space mapping and dissipative memory control
+- Lightweight Ridge Regression readout for fast CPU training
+- Time-series forecasting and noise-resilience benchmarks
+
 ---
 
 ## 🧪 Experimental Nature
