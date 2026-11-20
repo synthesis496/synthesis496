@@ -3,6 +3,7 @@
 **Independent Quantum Computing & Theoretical Physics Researcher**  
 📍 Buriram, Thailand | 📧 [synthesis496@gmail.com](mailto:synthesis496@gmail.com)  
 🔗 [ORCID: 0009-0003-4295-7521](https://orcid.org/0009-0003-4295-7521)
+(+66876666891)
 
 ---
 
